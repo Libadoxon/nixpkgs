@@ -136,6 +136,7 @@ in
           "~@setuid"
           "~@timer"
         ];
+        Type = "notify";
       };
     };
   };
